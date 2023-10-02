@@ -1,0 +1,4 @@
+base_url: https://pypi.org/search/?c=Programming+Language+::+Python+::+3
+pagin_xpath: //a[contains(.,'Next')]/preceding-sibling::a/text()
+pack_url_xpath: //a[contains(@class,'package-snippet')]/@href
+pip_xpath: //span[contains(@id,'pip-command')]/text()
