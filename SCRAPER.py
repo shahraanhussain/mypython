@@ -51,7 +51,7 @@ class bot:
                 for url in pack_url:
                     final_url = template_url+url
                     fin_urls.append(final_url)
-                    print(final_url)
+                    
 
         return fin_urls
     
