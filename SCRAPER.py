@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-Scrape all python package url using multiprocessing along with pipe(sender,reciever).
+Scrape all python package url.
 '''
 
 __author__ = "Shahraan Hussain"
